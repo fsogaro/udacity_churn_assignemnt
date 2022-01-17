@@ -1,0 +1,7 @@
+data/
+venv/
+images/
+models/
+.pytest_cache/
+.ipynb_checkpoints
+
