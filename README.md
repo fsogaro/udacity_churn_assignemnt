@@ -1,3 +1,4 @@
+
 # Predict Customer Churn
 
 - Project **Predict Customer Churn** of ML DevOps Engineer Nanodegree Udacity
@@ -25,4 +26,3 @@ The project and module performs 3 tasks:
 
 Alternatively you can import the various functions of `churn_library.py` in a 
 notebook.
-
